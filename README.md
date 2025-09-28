@@ -44,7 +44,7 @@ The design adapts perfectly to **desktop and mobile screens**, making it a smoot
 ---
 
 ## 🎥 Live Demo
-👉 Click here to view demo:  
+👉 Click here to view demo: https://drive.google.com/file/d/1VmKIxElEmnsOL8gWgmz-K8e28xStFMqe/view?usp=sharing
 
 ---
 
@@ -64,5 +64,5 @@ The design adapts perfectly to **desktop and mobile screens**, making it a smoot
 
 ---
 👩‍💻 Author
-Developed by [Maida Kosser] ✨
+- Developed by Maida Kosser✨
 
